@@ -1,3 +1,6 @@
+# Demo
+https://www.loom.com/share/2b8af2123dd84afea6678535658c0d98
+
 # ComfyUI Profiler
 
 Calculate the execution time of all nodes.
