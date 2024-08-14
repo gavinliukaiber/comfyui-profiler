@@ -1,6 +1,8 @@
 # Demo
 https://www.loom.com/share/2b8af2123dd84afea6678535658c0d98
 
+Why is this fork better than the original repo: runs entirely in frontend (no backend component), has better UX on ComfyUI and outputs the profiling result in browser's Dev Tool console.
+
 # ComfyUI Profiler
 
 Calculate the execution time of all nodes.
